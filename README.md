@@ -1,4 +1,5 @@
-Tic Tac Toe 🎮
+##Tic Tac Toe 🎮
+
 An interactive Tic Tac Toe game built with HTML, CSS, and JavaScript that delivers a fun and dynamic experience. Challenge a friend to this timeless classic and enjoy a sleek, modern interface with customizable themes.
 
 👉 **[Play the Game Now!](https://avinesh-2001.github.io/Tic-Tac-Toe-Game/)**
