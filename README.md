@@ -1,45 +1,53 @@
-🎮 Tic Tac Toe Game
-🌟 Overview
-An interactive Tic Tac Toe game built with HTML, CSS, and JavaScript that delivers a fun and dynamic experience. Challenge a friend to this timeless classic and enjoy a sleek, modern interface with customizable themes!
-🚀 Features
-🎨 Theme Customization
+# 🎮 Tic Tac Toe Game  
 
-Light & Dark Mode: Effortlessly switch between themes
-Automatic Preference Saving: Your theme choice is remembered between sessions
+Welcome to the **Tic Tac Toe Game**, a timeless classic reimagined with a sleek, modern interface and dynamic gameplay! Test your skills or challenge a friend to a fun-filled match.  
 
-🏆 Game Mechanics
+👉 **[Play the Game Now!](https://avinesh-2001.github.io/Tic-Tac-Toe-Game/)**  
 
-Winner Detection: Automatically identifies and announces the winner
-Draw Recognition: Detects and declares a draw when no winning move is possible
-Interactive UI:
+---
 
-Disables played boxes to prevent duplicate moves
-Shows real-time player turns
-Provides seamless user experience
+## 🌟 Overview  
 
+This interactive Tic Tac Toe game is built using **HTML**, **CSS**, and **JavaScript**. Designed for a seamless user experience, it comes with exciting features like theme customization and real-time game mechanics.
 
+---
 
-🔄 Game Controls
+## 🚀 Features  
 
-Reset Button: Instantly restart the current game
-New Game Option: Begin a fresh match with a single click
+### 🎨 **Theme Customization**  
+- **Light & Dark Mode**: Switch effortlessly between themes.  
+- **Automatic Preference Saving**: Your theme choice is remembered for future sessions.  
 
-🎲 How to Play
+### 🏆 **Game Mechanics**  
+- **Winner Detection**: Automatically detects and announces the winner.  
+- **Draw Recognition**: Declares a draw if no winning moves are possible.  
+- **Interactive UI**:  
+  - Disables played boxes to avoid duplicate moves.  
+  - Displays real-time player turns.  
 
-Two players take turns marking the 3x3 grid with "X" or "O"
-Click on an empty square to place your mark
-The game automatically checks for a winner after each move
-A message will appear declaring the result when the game ends
-Use the reset or new game button to play again
+### 🔄 **Game Controls**  
+- **Reset Button**: Restart the current game instantly.  
+- **New Game Option**: Begin a fresh match with a single click.  
 
-🖥️ Tech Stack
+---
 
+## 🎲 How to Play  
 
-HTML: Provides the structural foundation of the game
-CSS: Handles styling and theme customizations
-JavaScript: Manages core game logic and interactivity
+1. Two players take turns marking the **3x3 grid** with "X" or "O".  
+2. Click on an empty square to place your mark.  
+3. The game automatically checks for a winner after every move.  
+4. A message will declare the result (win/draw) when the game ends.  
+5. Use the **Reset** or **New Game** button to start again.  
 
-🎮 Play Now
-➡️ Play Tic Tac Toe Game
+---
+
+## 🖥️ Tech Stack  
+
+- **HTML**: Provides the structural foundation of the game.  
+- **CSS**: Handles styling and theme customizations.  
+- **JavaScript**: Manages core game logic and interactivity.  
+
+---
+
 
 Enjoy the game and may the best player win! 🎲🏆
